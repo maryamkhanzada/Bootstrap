@@ -15,3 +15,6 @@
     font-weight: lighter;
    
 }
+@media (max-width: 480px) {
+    /* Mobile-specific styles yahan likhein */
+  }

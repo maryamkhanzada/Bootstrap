@@ -1,0 +1,50 @@
+body{
+    background-image: url("arb3.jpg");
+}
+
+.card{
+    margin: 80px;
+    
+}
+.containercard{
+    display: flex;
+}
+
+.about{
+    text-align: center;
+    color: black;
+}
+.para{
+    text-align: center;
+    color: black;
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.body{
+    color: #ffffff;
+}
+.navbar-brand{
+    margin: 4px;
+}
+.nav-item{
+    color: #00334c;
+}
+
+.nav-item :hover{
+    color: #025ba9;
+}
+.nav-link{
+    font-family: sans-serif;
+    
+}
+.navbar-nav{
+    margin: 0; 
+}
+.heading{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 24px;
+    line-height: 28.8px;
+    color: #00344d;
+    font-family: sans-serif;
+}
